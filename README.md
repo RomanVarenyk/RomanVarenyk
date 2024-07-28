@@ -1,16 +1,12 @@
 ### Hi there 👋
+Some might ask, why Varenyk? Well here you are: Its a Ukrainian dumpling. Its commonly made with potato, meat, cherry and many other fillings. I love them and I make fairly good ones so thats the name. 
+If you need to contact me, my details are below:
+Telegram: @RomanVarenyk
+Signal: Varenyk.25
+Discord: varenyk1449
+Instagram: @romantheukrainian
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukraine1449&show_icons=true&theme=gruvbox)
-<!--
-**Ukraine1449/Ukraine1449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a bot for Ukrainians to practice English
+- 🌱 I’m currently learning more about Java and Python uses in ML
+- 💬 Ask me about any of my projects
+- ⚡ Fun fact: I make a kiler cheese bread
