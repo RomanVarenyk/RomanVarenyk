@@ -10,3 +10,5 @@ Instagram: @romantheukrainian
 - 🌱 I’m currently learning more about Java and Python uses in ML
 - 💬 Ask me about any of my projects
 - ⚡ Fun fact: I make a kiler cheese bread
+
+PS: Many of my older repositories and code has been hidden, but if you would like access to any of them I am happy to share!
