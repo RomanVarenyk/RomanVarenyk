@@ -5,7 +5,7 @@ Telegram: @RomanVarenyk
 Signal: Varenyk.25
 Discord: varenyk1449
 Instagram: @romantheukrainian
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukraine1449&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanVarenyk&show_icons=true&theme=gruvbox)
 - 🔭 I’m currently working on a bot for Ukrainians to practice English
 - 🌱 I’m currently learning more about Java and Python uses in ML
 - 💬 Ask me about any of my projects
